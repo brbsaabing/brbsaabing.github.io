@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-![Angry Turtle](/assets/angry_turtle.jpg)
+![Angry Turtle](/docs/assets/angry_turtle.jpg)
 
 
 You can use the [editor on GitHub](https://github.com/brbsaabing/brbsaabing.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
